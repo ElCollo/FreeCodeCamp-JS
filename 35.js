@@ -1,7 +1,3 @@
-// Example
-var firstName = "Ada";
-var secondLetterOfFirstName = firstName[1];
-
 // Setup
 var lastName = "Lovelace";
 
